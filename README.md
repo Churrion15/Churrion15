@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**Churrion15/Churrion15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 👽.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am currently a student.
+- 🌱 I’m currently learning front-end and back-end and being able to upload my website.
+- 👯 I’m looking to collaborate on small projects to start adapting.
+- 🤔 I’m looking for help with things that are advanced and handle git and github in a correct way.
+- 💬 Ask me about how to make a registration and login page and how to link it to a database.
+- 📫 How to reach me: discord: churrion12 or email: churrionc12@gmailcom.
+- 😄 Pronouns: Churrion.
+- ⚡ Fun fact: none.
+
